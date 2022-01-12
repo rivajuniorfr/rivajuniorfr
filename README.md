@@ -1,2 +1,3 @@
 ### Hi there 👋
-### Estudando Backend com Java Script
+### My name is Riva Junior
+### I'am studing  Backend with Java Script
